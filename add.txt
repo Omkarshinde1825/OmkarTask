@@ -1,2 +1,4 @@
 hello 
 this is new file 
+This is java code 
+for menu 
